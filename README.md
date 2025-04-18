@@ -8,9 +8,8 @@ This is a full-stack e-commerce web application built using the MERN stack (Mong
 - Register/Login with secure authentication (JWT)
 - Browse products on the homepage
 - Add products to cart
-- View and place orders
 
-### 🛠️ Admin Side: *(If implemented / optional)*
+### 🛠️ Admin Side:
 - Manage product listings
 - View and manage customer orders
 
@@ -22,7 +21,7 @@ This is a full-stack e-commerce web application built using the MERN stack (Mong
 | Backend     | Node.js, Express.js    |
 | Database    | MongoDB (NoSQL)        |
 | Authentication | JWT, bcrypt.js     |
-| Tools       | GitHub, Postman, VS Code, npm/yarn |
+| Tools       | GitHub, Postman, VS Code, npm |
 
 ## 📂 Project Structure
 
@@ -32,11 +31,11 @@ ecommerce-website-MERN/
 ├── backend/             # Node.js + Express backend
 │   ├── models/          # MongoDB models (User, Product, Order)
 │   ├── routes/          # API routes
-│   └── server.js        # Server entry point
+│   └── index.js        # Server entry point
 │
 ├── frontend/            # React frontend
-│   ├── components/      # Reusable React components
-│   ├── pages/           # Main pages (Home, Login, Cart, etc.)
+│   ├── src/      # Reusable React components
+│   ├── components/         # Main pages (Home, Login, Cart, etc.)
 │   └── App.js           # App entry point
 │
 └── README.md            # Project documentation
@@ -54,7 +53,7 @@ cd ecommerce-website-MERN
 ### Backend Setup
 
 ```bash
-cd backend
+cd ecommerce-backend
 npm install
 npm start
 ```
@@ -62,7 +61,7 @@ npm start
 ### Frontend Setup
 
 ```bash
-cd frontend
+cd ecommerce-frontend
 npm install
 npm start
 ```
