@@ -13,6 +13,17 @@ This is a full-stack e-commerce web application built using the MERN stack (Mong
 - Manage product listings
 - View and manage customer orders
 
+## 🖼️ Screenshots
+
+### 🏠 Home Page  
+![Home Page](./home.png)
+
+### 🔑 Sign Up Page  
+![Sign Up Page](./signup.png)
+
+### 🛒 Add to Cart  
+![Add to Cart](./addtocart.png)
+
 ## 🧠 Tech Stack
 
 | Layer       | Technology Used       |
