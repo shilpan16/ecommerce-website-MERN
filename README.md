@@ -15,15 +15,14 @@ This is a full-stack e-commerce web application built using the MERN stack (Mong
 
 ## 🖼️ Screenshots
 
-### 🛒 Add to Cart  
-![Add to Cart](./addtocart.png)
+### 🔑 Sign Up Page  
+![Sign Up Page](./signup.png)
 
 ### 🏠 Home Page  
 ![Home Page](./home.png)
 
-### 🔑 Sign Up Page  
-![Sign Up Page](./signup.png)
-
+### 🛒 Add to Cart  
+![Add to Cart](./addtocart.png)
 
 
 ## 🧠 Tech Stack
